@@ -1,7 +1,7 @@
 import { create } from 'zustand';
 import axios from 'axios';
 
-const API_URL = 'http://192.168.1.48:3000/questions';
+const API_URL = 'http://localhost:3000/questions';
 
 const initialState = {
   questions: [],
