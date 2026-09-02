@@ -1,0 +1,67 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "category": "General Culture",
+      "question": "What is the capital of France?",
+      "options": ["Berlin", "Madrid", "Paris", "Rome"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": 2,
+      "category": "General Culture",
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": 3,
+      "category": "General Culture",
+      "question": "Who painted the Mona Lisa?",
+      "options": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Claude Monet"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": 4,
+      "category": "Logic",
+      "question": "Which number continues the sequence: 2, 4, 8, 16, ...?",
+      "options": ["24", "32", "64", "20"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": 5,
+      "category": "Logic",
+      "question": "If all Bloops are Razzies and all Razzies are Lazzies, are all Bloops definitely Lazzies?",
+      "options": ["Yes", "No", "Cannot be determined", "Only on Tuesdays"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": 6,
+      "category": "Logic",
+      "question": "Which shape has 5 sides?",
+      "options": ["Hexagon", "Pentagon", "Octagon", "Heptagon"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": 7,
+      "category": "Entertainment",
+      "question": "Which movie won the Best Picture Oscar in 2020?",
+      "options": ["1917", "Parasite", "Joker", "Once Upon a Time in Hollywood"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": 8,
+      "category": "Entertainment",
+      "question": "Who sang the song 'Thriller'?",
+      "options": ["Prince", "Michael Jackson", "Stevie Wonder", "Whitney Houston"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": 9,
+      "category": "Entertainment",
+      "question": "Which superhero is also known as Bruce Wayne?",
+      "options": ["Superman", "Spider-Man", "Batman", "Iron Man"],
+      "correctAnswerIndex": 2
+    }
+  ]
+}
